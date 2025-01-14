@@ -1,8 +1,8 @@
-# React + Vite
+# Kafi_InterviewTask_FE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### If you want to clone this repo to local, follow these instructions:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone this repo by using `git clone https://github.com/TrHoangDuc/Kafi_InterviewTask_FE.git`
+2. Make sure that you have already install the [Kafi_InterviewTask_BE](https://github.com/TrHoangDuc/Kafi_InterviewTask_BE.git) and run it
+3. Install the dependencies by using `npm install`
+4. Run the project with this command `npm run dev`
